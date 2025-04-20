@@ -1,0 +1,1 @@
+MeasName,MeasType,LotName,Group,Board,LineName,MachineName,BoardOrderInLot,Barcode,BoardAiJudgement,DateTimeInspected,ReferenceName,CompAiJudgement,SubboardId,LinkId,ShapeName,RecipeName,Pin,AlgorithmName,WindowAiJudgement,WindowNgType,SampleName,SampleValue,SampleValueMin,SampleValueMax,Operator(Minitab),Part(Minitab),Measurement(Minitab)
